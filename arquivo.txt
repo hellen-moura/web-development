@@ -1,0 +1,5 @@
+cd ../ ou cd .. -> entrar e sair de pastas
+setinha para cima e para baixo -> navega no histórico
+crl +l limpa o terminal
+git init -> entra no git e vira repositorio  
+git status > mostra o andamento
