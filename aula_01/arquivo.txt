@@ -1,0 +1,19 @@
+cd ../ ou cd .. -> entrar e sair de pastas
+setinha para cima e para baixo -> navega no histórico
+crl +l limpa o terminal
+git init -> entra no git e vira repositorio  
+git status > mostra o andamento
+git add . -> adiciona tudo da asta
+git log -> mostra todos os commits 
+feat
+fix
+style ->
+quando fazer commit? ->
+gi ammend -m "Nova mensagem" -> da para fazer alteração no commit antes do push
+git diff commit1..commit2 -> compara 2 commits 
+git revert -> volta 
+git reset -> apaga
+
+site legal -> http://git-school.github.io/visualizing-git/#free
+
+ctrl = " -> abre o terminal do vscode
